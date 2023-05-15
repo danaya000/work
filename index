@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300i,400" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+    
+<div class="main">
+<div class="menu-bar-1">
+    <img src="images/logo(1).png" height="100" width="250" style="margin-top: -15px;">
+        
+     <ul>
+         <li><a href="#">Home</a></li>
+         <li><a href="#">Courses<i class="fa fa-caret-down"></i></a>
+             <div class="dropdown-menu">
+                 <ul>
+                     <li><a href="#">Engineering</a></li>
+                     <li><a href="#">Medical</a></li>
+                     <li><a href="#">Arts and science</a></li>
+                     <li><a href="#">Mba</a></li>
+                     <li><a href="#">Commerce</a></li>
+                     <li><a href="#">Law</a></li>
+                     <li><a href="#">Design</a></li>
+                 </ul>
+             </div>
+             <li><a href="#">Find Colleges<i class="fa fa-caret-down"></i></a>
+                <div class="dropdown-menu">
+                    <ul>
+                        <li><a href="#">Dehli</a></li>
+                        <li><a href="#">Kerala</a></li>
+                        <li><a href="#">Karnadaka</a></li>
+                        <li><a href="#">Goa</a></li>
+                    </ul>
+                </div>
+         </li>
+         <li><a href="#"> Explore Exams<i class="fa fa-caret-down"></i></a>
+             <div class="dropdown-menu">
+                 <ul>
+                     <li><a href="#">KEEM</a></li>
+                     <li><a href="#">NEET</a></li>
+                     <li><a href="#">Higher secondary Board</a></li>
+                     <li><a href="#">More</a></li>
+                 </ul>
+             </div>
+         <li><a href="#">Get Admission</a></li>
+         <li><a href="#">Study Abroad</a></li>
+         <li><a href="#">contact us</a></li>
+         <li><a href="#">Login</a></li>
+     </ul>
+ </div>
+
+
+<div class="hi">
+    <h1>Choose Your Career With Us!</h1>
+    <div class="box">
+
+        <i class="fa fa-search" aria-hidden="true"></i>
+    
+        <input type="text" name="" placeholder="Colleges,Courses,Exams and More!">
+    
+    </div>
+
+</div>
+</div>
+</div>
+
+<div class="container">
+    <div class="card">
+      <h3 class="title">Countries</h3>
+      <div class="bar">
+        <div class="emptybar"></div>
+        <div class="filledbar"></div>
+      </div>
+      <div class="circle">
+        <img src="images/istockphoto-1329836000-1024x1024.jpg" height="100px" width="100px" style="border-radius: 100px; ">
+        <circle class="stroke" cx="60" cy="60" r="50"/>
+      </svg>
+      </div>
+    </div>
+    <div class="card">
+      <h3 class="title">Colleges</h3>
+      <div class="bar">
+        <div class="emptybar"></div>
+        <div class="filledbar"></div>
+      </div>
+      <div class="circle">
+        <img src="images/mailchimp-04X1Yp9hNH8-unsplash.jpg" height="100px" width="100px" style="border-radius: 100px;">
+        <circle class="stroke" cx="60" cy="60" r="50"/>
+      </svg>
+      </div>
+    </div>
+    <div class="card">
+      <h3 class="title">Admissions</h3>
+      <div class="bar">
+        <div class="emptybar"></div>
+        <div class="filledbar"></div>
+      </div>
+      <div class="circle">
+        <img src="images/ADMISSION.jpg" height="100px" width="100px" style="border-radius: 100px;">
+        <circle class="stroke" cx="60" cy="60" r="50"/>
+      </svg>
+      </div>
+    </div>
+    <div class="card">
+      <h3 class="title">Exams</h3>
+      <div class="bar">
+        <div class="emptybar"></div>
+        <div class="filledbar"></div>
+      </div>
+      <div class="circle">
+        <img src="images/EXAM.jpg" height="100px" width="100px" style="border-radius: 100px;">
+        <circle class="stroke" cx="60" cy="60" r="50"/>
+      </svg>
+      </div>
+    </div>
+  </div>
+
+
+
+<div class="con">
+    <div class="box_section">
+       <div class="online_box">
+          <div class="online_box_left">
+             <div class="online_box_main">
+                <div class="box_left">
+                   <div class="right_arrow"><i class="fa fa-arrow-right"></i></div>
+                </div>
+                <div class="box_right">
+                   <p class="book_text">New Batch</p>
+                   <h4 class="appoinment_text">Admission</h4>
+                </div>
+             </div>
+          </div>
+          
+       </div>
+    </div>
+ </div>
+
+ <div class="intrest">
+   <h3><b>Are you Intrested in these places</b></h3>
+   </div>
+ <div class="place">
+      
+   <input type="radio" name="position" checked />
+       <input type="radio" name="position" />
+       <input type="radio" name="position" />
+       <input type="radio" name="position" />
+       <input type="radio" name="position" />
+    
+       
+       <main id="carousel">
+         <div class="item"><h5 >Delhi</h5><p style="color:black;">Education Department of the Government of Delhi is a premier body which looks into the educational affairs. The RTE right to education states that children from the age of 6 to 14 have to compulsorily be educated. 
+          25% of the seats in all private schools are also reserved for the under-privileged children.</p></div>
+
+
+         <div class="item"><h4 >Hyderabad</h4><p style="color:white;">How is Hyderabad for education?
+          Hyderabad is an important seat of learning in southern India. The city hosts three central universities, three deemed universities, and six state universities. Osmania University is one of the oldest universities in India.</p></div>
+
+          
+         <div class="item"><h5  >Mumbai</h5><p style="color:black;">Why Mumbai is best for education?
+          Superior standards of teaching, well trained faculty of high calibre, industry-focused courses to new-age campuses along with a holistic approach towards developing student skills are among the reasons why Mumbai firmly occupies the numero 
+          uno position as a Centre of Excellence for Education.</p></div>
+
+         <div class="item"><h4 >Chennai</h4><p style="color:white;">Is Chennai good for higher education?
+          Chennai is the capital of Tamil Nadu with a number of autonomous engineering colleges and top-ranked institute technical institutes. It has some of the best institutes of national importance and research centers of 
+          excellence which makes it a notable education center. There are almost 823 colleges in Chennai.</p></div>
+
+         <div class="item"><h5 >Kerala</h5><p style="color:black;">What is the higher education rate in Kerala?
+          The ratio has gone up to 43.2 per cent this year and is quite higher than the national average of 27.3 per cent. Meanwhile, Kerala ranks joint-third with Himachal Pradesh in terms of college density 
+          (number of colleges per lakh population) with a score of 50 after Karnataka (62) and Telangana (53).</p></div>
+        
+         <main>
+   
+         </div>
+	 
+ 
+
+
+<section class="products">
+  <h2><b>COURSES</b></h2>
+  <div class="all-products">
+    <div class="product">
+      <img src="images/pexels-cottonbro-studio-7583376.jpg">
+      <div class="product-info">
+        <h4 class="product-title">Medical
+        </h4>
+        <p class="product-price">4 years</p>
+        <a class="product-btn" href="#">Read More</a>
+
+      </div>
+    </div>
+    <div class="product">
+      <img src="images/thisisengineering-raeng-WE-BiNwgwXc-unsplash.jpg">
+      <div class="product-info">
+        <h4 class="product-title">Engineering
+        </h4>
+        <p class="product-price">4 Years</p>
+        <a class="product-btn" href="#">Read More</a>
+
+      </div>
+    </div>
+    <div class="product">
+      <img src="images/pexels-artem-podrez-5726706.jpg">
+      <div class="product-info">
+        <h4 class="product-title">Paramedical
+        </h4>
+        <p class="product-price">4 Years</p>
+        <a class="product-btn" href="#">Read More</a>
+
+      </div>
+    </div>
+    <div class="product">
+      <img src="images/EXAM.jpg">
+      <div class="product-info">
+        <h4 class="product-title">MBA
+        </h4>
+        <p class="product-price">2 Years</p>
+        <a class="product-btn" href="#">Read More</a>
+
+      </div>
+    </div>
+    <div class="product">
+      <img src="images/wa.png">
+      <div class="product-info">
+        <h4 class="product-title">Designing
+        </h4>
+        <p class="product-price">3 Years</p>
+        <a class="product-btn" href="#">Read More</a>
+
+      </div>
+    </div>
+    <div class="product">
+      <img src="images/pexels-stanley-morales-1454360.jpg">
+      <div class="product-info">
+        <h4 class="product-title">Under Graduation
+        </h4>
+        <p class="product-price">3 Years</p>
+        <a class="product-btn" href="#">Read More</a>
+
+      </div>
+    </div>
+    <div class="product">
+      <img src="images/pexels-gül-işık-2292837.jpg">
+      <div class="product-info">
+        <h4 class="product-title">MSC
+        </h4>
+        <p class="product-price">2 Years</p>
+        <a class="product-btn" href="#">Read More</a>
+
+      </div>
+    </div>
+    <div class="product">
+      <img src="images/istockphoto-1068752376-1024x1024.jpg">
+      <div class="product-info">
+        <h4 class="product-title">BBA
+        </h4>
+        <p class="product-price">2 Years</p>
+        <a class="product-btn" href="#">Read More</a>
+
+      </div>
+    </div>
+    <div class="product">
+      <img src="images/pexels-rodolfo-quirós-2219024.jpg">
+      <div class="product-info">
+        <h4 class="product-title">B.Arch
+        </h4>
+        <p class="product-price">5 Years</p>
+        <a class="product-btn" href="#">Read More</a>
+
+      </div>
+    </div>
+    <div class="product">
+      <img src="images/pexels-mart-production-7230192.jpg">
+      <div class="product-info">
+        <h4 class="product-title">B.Pharm
+          </h4>
+        <p class="product-price">4 years</p>
+        <a class="product-btn" href="#">Read More</a>
+
+      </div>
+    </div>
+  </div>
+</section> 
+
+
+
+<div class="news_section layout_padding">
+   <div class="containeres">
+
+      <div class="news_section_2">
+         <div class="news_box"> 
+            <h2 class="does_taital" > Discover Yourself and Your Ideal Career !</h2>
+            <p class="dummy_text"> Get expert career guidance, counselling and mentorship to find out which future path you will enjoy and excel at.
+ Trusted by over 2 lakh users, 100 corporates and 90 schools. Customised guidance to fit your needs - multiple counselling sessions, guidance on studying abroad, CV reviews and more.
+ Lifetime access to Mentoria's Knowledge Gateway for all your career-related queries. VPlans starting at INR 999<br><BR>
+            </p>
+            <button type="button" class="btn btn-outline-dark">GET STARTED </button>
+         </div>
+        
+      </div>
+   </div>
+</div>
+
+
+
+      <div class="cards"><h1><b>Choose Your College, Your Courses & Exam Alert</b></h1><br>
+         <ul>
+            <li>Dehli</li>
+            <li>Goa</li>
+            <li>Mumbai</li>
+            <li>Hyderabad</li>
+            <li>Lucknow</li>
+            </ul>
+            <ul>
+            <li>Medical</li>
+            <li>Engineering Entrance</li>
+            <li>MBA</li>
+            <li>Management</li>
+            <li>Arts</li>
+         </ul>
+         <ul>
+           <li> Engineering college</li>
+           <li>Medical College</li>
+           <li>MBA in offiline and online</li>
+           <li>Design</li>
+           <li>Commerce</li>
+        </ul>
+     </div>
+
+
+
+
+
+<div class="cont">
+      <div class="background">
+        <div class="co">
+          <div class="screen">
+            <div class="screen-header">
+              <div class="screen-header-left">
+                <div class="screen-header-button close"></div>
+                <div class="screen-header-button maximize"></div>
+                <div class="screen-header-button minimize"></div>
+              </div>
+              <div class="screen-header-right">
+                <div class="screen-header-ellipsis"></div>
+                <div class="screen-header-ellipsis"></div>
+                <div class="screen-header-ellipsis"></div>
+              </div>
+            </div>
+            <div class="screen-body">
+              <div class="screen-body-item left">
+                <div class="app-title">
+                  <span>CONTACT</span>
+                  <span>US</span>
+                </div>
+                <div class="app-contact">CONTACT INFO : +62 81 314 928 595</div>
+              </div>
+              <div class="screen-body-item">
+                <div class="app-form">
+                  <div class="app-form-group">
+                    <input class="app-form-control" placeholder="NAME" value="Krisantus Wanandi">
+                  </div>
+                  <div class="app-form-group">
+                    <input class="app-form-control" placeholder="EMAIL">
+                  </div>
+                  <div class="app-form-group">
+                    <input class="app-form-control" placeholder="CONTACT NO">
+                  </div>
+                  <div class="app-form-group message">
+                    <input class="app-form-control" placeholder="MESSAGE">
+                  </div>
+                  <div class="app-form-group buttons">
+                    <button class="app-form-button">CANCEL</button>
+                    <button class="app-form-button">SEND</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      
+    </div>
+
+
+<div class="footr">
+
+      <footer class="footer">
+        <div class="foot">
+          <div class="row">
+            <div class="footer-col">
+              <h4>College </h4>
+              <ul>
+                <li><a href="#">Engineering</a></li>
+                <li><a href="#">Arts</a></li>
+                <li><a href="#">Medical</a></li>
+                <li><a href="#">Design</a></li>
+                <li><a href="#">Narsing</a></li>
+              </ul>
+            </div>
+            <div class="footer-col">
+              <h4>Places</h4>
+              <ul>
+                <li><a href="#">Banglore</a></li>
+                <li><a href="#">Delhi</a></li>
+                <li><a href="#">Chennai</a></li>
+                <li><a href="#">Hyderabad</a></li>
+                <li><a href="#">Mumbai</a></li>
+              </ul>
+            </div>
+            <div class="footer-col">
+              <h4>Exams</h4>
+              <ul>
+                <li><a href="#">NEET</a></li>
+                <li><a href="#">NET</a></li>
+                <li><a href="#">Medical Entrance</a></li>
+                <li><a href="#">KEEM</a></li>
+                <li><a href="#">MBA</a></li>
+              </ul>
+            </div>
+            <div class="footer-col">
+              <h4>follow us</h4>
+              <div class="social-links">
+                <a href="#"><i class="fa fa-facebook-f"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
+                <a href="#"><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+     </footer>
+   
+    </div>
+
+</body>
+</html>
